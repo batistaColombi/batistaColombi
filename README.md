@@ -53,6 +53,16 @@ Desenvolvo integrações e APIs REST com foco em organização, regras de negóc
 
 ---
 
+## 🪰 Experimento interativo
+
+### Mosca Viva — Humano vs IA
+
+Uma vida digital compartilhada que continua existindo entre as visitas. Observe a **M-01**, alimente-a e dispute uma corrida de néctar contra um agente de inteligência artificial.
+
+[**Jogar e observar a mosca →**](https://mosca-viva-batista.batistacolombi25.chatgpt.site)
+
+---
+
 ## 📊 Estatísticas
 
 <p align="left">
