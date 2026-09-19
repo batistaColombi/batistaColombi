@@ -53,13 +53,13 @@ Desenvolvo integrações e APIs REST com foco em organização, regras de negóc
 
 ---
 
-## 🪰 Experimento interativo
+## 🪰 OpenFly Habitat
 
-### Mosca Viva — Humano vs IA
+Uma mosca-das-frutas biomecânica em um habitat digital compartilhado. A experiência utiliza o modelo científico **NeuroMechFly**, física real com **MuJoCo WebAssembly** e um backend persistente que mantém energia, comportamento e histórico entre visitantes.
 
-Uma vida digital compartilhada que continua existindo entre as visitas. Observe a **M-01**, alimente-a e dispute uma corrida de néctar contra um agente de inteligência artificial.
+[![OpenFly Habitat — simulação NeuroMechFly](./assets/openfly-habitat.png)](https://openfly-habitat-batista.batistacolombi25.chatgpt.site)
 
-[**Jogar e observar a mosca →**](https://mosca-viva-batista.batistacolombi25.chatgpt.site)
+[**Explorar o habitat →**](https://openfly-habitat-batista.batistacolombi25.chatgpt.site) · [**Contribuir no GitHub →**](https://github.com/batistaColombi/OpenFly-Habitat)
 
 ---
 
