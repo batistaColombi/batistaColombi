@@ -40,7 +40,7 @@ Desenvolvo integrações e APIs REST com foco em organização, regras de negóc
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" /> Principais áreas de interesse
+## 🎯 Principais áreas de interesse
 
 - Desenvolvimento Android
 - Kotlin
@@ -53,7 +53,7 @@ Desenvolvo integrações e APIs REST com foco em organização, regras de negóc
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25" /> Estatísticas
+## 📊 Estatísticas
 
 <p align="left">
   <img
@@ -66,11 +66,13 @@ Desenvolvo integrações e APIs REST com foco em organização, regras de negóc
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=batistaColombi&theme=github_dark"
     alt="Linguagens mais utilizadas"
+    width="49%"
   />
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=batistaColombi&theme=github_dark"
     alt="Estatísticas do GitHub"
+    width="49%"
   />
 </p>
 
