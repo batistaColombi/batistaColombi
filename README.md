@@ -62,18 +62,21 @@ Desenvolvo integrações e APIs REST com foco em organização, regras de negóc
   />
 </p>
 
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=batistaColombi&theme=github_dark"
-    alt="Linguagens mais utilizadas"
-    width="49%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=batistaColombi&theme=github_dark"
-    alt="Estatísticas do GitHub"
-    width="49%"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=batistaColombi&theme=github_dark"
+        alt="Linguagens mais utilizadas"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=batistaColombi&theme=github_dark"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
