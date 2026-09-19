@@ -28,9 +28,11 @@ Também possuo experiência no desenvolvimento de **produtos e soluções digita
 
 ![Frontend](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark)
 
-### Back-end & Banco de Dados
+### Back-end & Dados
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,python,postgres,supabase&theme=dark)
+
+Desenvolvo integrações e APIs REST com foco em organização, regras de negócio e persistência de dados. Tenho experiência com **Node.js**, **Python**, **PostgreSQL** e **Supabase**, aplicando essas tecnologias na construção e evolução de produtos digitais.
 
 ### Ferramentas
 
@@ -44,12 +46,10 @@ Também possuo experiência no desenvolvimento de **produtos e soluções digita
 - Kotlin
 - Arquitetura de Software
 - Desenvolvimento de Produtos Digitais
-- APIs REST
-- Integração de Sistemas
+- Back-end, APIs REST e integração de sistemas
+- Modelagem e persistência de dados
 - Inteligência Artificial aplicada a produtos
 - Desenvolvimento Full Stack
-
----
 
 ---
 
